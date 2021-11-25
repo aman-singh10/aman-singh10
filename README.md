@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" width="300px" height="250px" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" />
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=eg7409&color=brightgreen) -->
-[![Github](https://img.shields.io/github/followers/aman-singh10?label=Follow&style=social)](https://github.com/Naman4925)
+[![Github](https://img.shields.io/github/followers/aman-singh10?label=Follow&style=social)](https://github.com/aman-singh10)
 
 ## <img src="https://media.giphy.com/media/xUPGcdJJcjnSIjqFHi/giphy.gif" width="30px">&nbsp; I'm a Student and Developer!!
 
