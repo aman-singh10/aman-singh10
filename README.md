@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**eg7409/eg7409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ### 👋 -->
-<!-- ### Hey, I'm Naman 👋 -->
+<!-- ### Hey, I'm Aman Singh 👋 -->
  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Aman+Singh)
 
 <img align="right" alt="GIF" width="300px" height="250px" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" />
